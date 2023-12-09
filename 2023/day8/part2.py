@@ -1,5 +1,6 @@
 # start 4:12 pm, dec 9, 2023
 # 20-30 minute break
+# 6:00 pm end
 import re
 
 
